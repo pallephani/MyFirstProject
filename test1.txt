@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is F220-BBEF
+
+ Directory of D:\pallephani\Learning\Devops\Git\Projects\MyFirstProject
+
+27-05-2020  15:22    <DIR>          .
+27-05-2020  15:22    <DIR>          ..
+27-05-2020  15:22                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  118,891,376,640 bytes free
